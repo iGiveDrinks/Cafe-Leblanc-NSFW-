@@ -1,2 +1,2 @@
 # Cafe-Leblanc-NSFW-
-FCC Cafe Menu Turoial - Creating my own version
+FCC Cafe Menu Tutorial - Creating my own version
