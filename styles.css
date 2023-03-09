@@ -1,0 +1,99 @@
+body {
+    background-image: url("https://w.wallhaven.cc/full/jx/wallhaven-jxe7om.jpg");
+    background-size: cover;
+    font-family: sans-serif;
+    color: rgb(168, 161, 161);
+    padding: 20px;
+}
+
+.menu {
+    width: 80%;
+    max-width: 500px;
+    background-color: rgb(41, 37, 37);
+    margin-right: auto;
+    margin-left: auto;
+    padding: 20px;
+    border-radius: 6px;
+    opacity: 90%;
+}
+
+.established {
+    font-style: italic;
+    font-family: sans-serif;
+}
+
+img {
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+    width: 40px;
+    height: 40px;
+    margin-top: -20px;
+}
+
+hr {
+    height: 2px;
+    background-color: black;
+    border-color: black;
+}
+
+h1 {
+    font-size: 40px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+
+h2 {
+    font-size: 30px;
+}
+
+h1, h2, p {
+    text-align: center;
+}
+
+h1, h2 {
+    font-family: century, serif;
+}
+
+.item p {
+    display: inline-block;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    font-size: 14px;
+}
+
+.hour, .addon {
+    text-align: left;
+    width: 75%;
+}
+
+.price {
+    text-align: right;
+    width: 25%;
+}
+
+.bottombreak {
+    margin-top: 25px;
+}
+
+/* FOOTER */
+
+footer {
+    font-size: 14px;
+}
+
+.adress {
+    margin-bottom: 5px;
+}
+
+a:link {
+    color: rgb(168, 161, 161);
+}
+
+a:active {
+    color: rgb(168, 161, 161);
+}
+
+a:hover {
+    color:white;
+}
